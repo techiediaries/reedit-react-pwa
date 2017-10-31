@@ -3,7 +3,7 @@ var CACHE_VERSION = 'react-pwa-v1';
 
 
 
-
+/*
 self.addEventListener('install', function(event) {
   
   
@@ -45,9 +45,9 @@ self.addEventListener('fetch', function(event) {
     );
     
 });
-
+*/
 // Delete old cach different from the current version
-
+/*
 self.addEventListener("activate", event => {
   
   
@@ -63,3 +63,4 @@ self.addEventListener("activate", event => {
       )
   );
 });
+*/
