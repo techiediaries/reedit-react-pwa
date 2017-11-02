@@ -90,5 +90,9 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "devDependencies": {
+    "inline-source": "^5.2.5",
+    "inline-source-cli": "^1.2.0"
   }
 }
