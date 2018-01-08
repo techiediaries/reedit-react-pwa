@@ -1,7 +1,7 @@
 
 ## A Reddit Client PWA Built with React
 
-This is a Reedit client PWA created with React for SitePoint Tutorial
+This is a Reedit client PWA created with React
 
 ![React PWA](/screenshots/reedit-pwa.png "Reddit PWA with React")
 
